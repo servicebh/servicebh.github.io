@@ -1,0 +1,13 @@
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Logs locais
+*.log
+
+# Artefatos temporários
+.DS_Store
+.cache/
+tmp/
+temp/
+

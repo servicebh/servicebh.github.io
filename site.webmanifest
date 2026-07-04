@@ -1,0 +1,21 @@
+{
+  "name": "Service Ar Condicionado Climatização e Automação",
+  "short_name": "Service Ar",
+  "description": "Climatização, manutenção, PMOC e automação em Belo Horizonte e região.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#20252B",
+  "icons": [
+    {
+      "src": "assets/images/service-logo-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/service-logo-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
