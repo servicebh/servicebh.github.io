@@ -136,7 +136,7 @@
       if (!trigger || !image || !title) return;
 
       const imageUrl = trigger.getAttribute("data-image");
-      const imageTitle = trigger.getAttribute("data-title") || "Projeto Service Ar";
+      const imageTitle = trigger.getAttribute("data-title") || "Projeto Service";
 
       image.src = imageUrl;
       image.alt = imageTitle;
