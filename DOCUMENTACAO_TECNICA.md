@@ -51,14 +51,14 @@ A navegação foi separada em páginas HTML próprias para melhorar SEO, leitura
 
 ## Contatos configurados
 
-- E-mail: `contato@servicebh.com.br`
+- E-mail: `Service.servicoseletricos@hotmail.com`
 - WhatsApp/telefone: `(31) 98276-6011`
 - Link WhatsApp: `https://wa.me/5531982766011`
 - Instagram: `@climatizacao_service`
 - Link Instagram: `https://www.instagram.com/climatizacao_service/`
 - Mensagem padrão: `Olá, gostaria de fazer um orçamento.`
 
-Para alterar contatos, procure por `5531982766011`, `(31) 98276-6011`, `contato@servicebh.com.br` e `climatizacao_service` nos arquivos HTML e em `assets/js/main.js`.
+Para alterar contatos, procure por `5531982766011`, `(31) 98276-6011`, `Service.servicoseletricos@hotmail.com` e `climatizacao_service` nos arquivos HTML e em `assets/js/main.js`.
 
 ## Hospedagem
 

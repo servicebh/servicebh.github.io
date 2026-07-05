@@ -26,7 +26,7 @@ Isso melhora indexação, clareza de conteúdo e futuras campanhas de tráfego p
 - WhatsApp atualizado para `(31) 98276-6011`.
 - Link WhatsApp atualizado para `https://wa.me/5531982766011`.
 - Instagram adicionado como `@climatizacao_service`.
-- E-mail preservado como `contato@servicebh.com.br`, pois os prints enviados não mostram outro endereço completo.
+- E-mail atualizado para `Service.servicoseletricos@hotmail.com`.
 - Formulário de orçamento reposicionado como formulário lateral na página `contato.html`.
 - Botões rápidos de serviço foram adicionados para preencher o campo de interesse e enviar uma mensagem mais organizada pelo WhatsApp.
 
@@ -67,7 +67,7 @@ Foram mantidos e atualizados:
 
 ## Pontos de atenção
 
-- Se o cliente informar outro e-mail comercial, substituir `contato@servicebh.com.br` nos HTMLs e na documentação.
+- Se o cliente informar outro e-mail comercial, substituir `Service.servicoseletricos@hotmail.com` nos HTMLs e na documentação.
 - Se o domínio final não for `servicebh.com.br`, atualizar canonical, Open Graph, sitemap, robots e arquivos de headers.
 - Se o JSON-LD for editado, recalcular o hash SHA-256 usado no Content Security Policy.
 - Após publicar, rodar Lighthouse e testar headers em uma ferramenta pública de análise de segurança.
